@@ -1,16 +1,13 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-20T03:05:44Z",
+  "updatedAt": "2026-11-20T19:47:53Z",
   "membershipUrl": "https://community.theaiautomators.com/",
   "stable": {
-    "tag": "v0.3.2",
-    "date": "2026-11-16",
-    "summary": "A patch release on `v0.3.1`: clearer updates, a tickets board that keeps your order, background runs shown as their own sessions, one-off tasks tied to any feature's record, and a set of small fixes.",
+    "tag": "v0.4.0",
+    "date": "2026-11-20",
+    "summary": "A minor release on `v0.3.2`: a rebuilt voice assistant that works your screen while you watch, one standard for records and collections, a Software Factory board that checks and lands its own work, help pages for members, and many smaller improvements.",
     "security": false,
-    "notesUrl": "https://github.com/theaiautomators-community/agentic-ops-releases/blob/main/notes/v0.3.2.md"
+    "notesUrl": "https://github.com/theaiautomators-community/agentic-ops-releases/blob/main/notes/v0.4.0.md"
   },
-  "next": {
-    "tag": "v0.3.3-next.20261120.1",
-    "date": "2026-11-20"
-  }
+  "next": null
 }
