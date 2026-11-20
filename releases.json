@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-19T10:43:10Z",
+  "updatedAt": "2026-11-20T03:05:44Z",
   "membershipUrl": "https://community.theaiautomators.com/",
   "stable": {
     "tag": "v0.3.2",
@@ -10,7 +10,7 @@
     "notesUrl": "https://github.com/theaiautomators-community/agentic-ops-releases/blob/main/notes/v0.3.2.md"
   },
   "next": {
-    "tag": "v0.3.3-next.20261119.1",
-    "date": "2026-11-19"
+    "tag": "v0.3.3-next.20261120.1",
+    "date": "2026-11-20"
   }
 }
