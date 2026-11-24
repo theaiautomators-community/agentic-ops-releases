@@ -1,16 +1,13 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-23T03:39:39Z",
+  "updatedAt": "2026-11-24T01:56:20Z",
   "membershipUrl": "https://community.theaiautomators.com/",
   "stable": {
-    "tag": "v0.4.0",
-    "date": "2026-11-20",
-    "summary": "A minor release on `v0.3.2`: a rebuilt voice assistant that works your screen while you watch, one standard for records and collections, a Software Factory board that checks and lands its own work, help pages for members, and many smaller improvements.",
+    "tag": "v0.4.1",
+    "date": "2026-11-24",
+    "summary": "A patch release on `v0.4.0`: the voice assistant builds apps and 3D scenes live on your screen while it talks you through them, a voice that knows when you have finished speaking, the Software Factory on your other projects, phone alerts straight from the app, an end to the app's long freezes on Windows, a quicker start, a stronger check for keys in your files, and a set of small fixes.",
     "security": false,
-    "notesUrl": "https://github.com/theaiautomators-community/agentic-ops-releases/blob/main/notes/v0.4.0.md"
+    "notesUrl": "https://github.com/theaiautomators-community/agentic-ops-releases/blob/main/notes/v0.4.1.md"
   },
-  "next": {
-    "tag": "v0.4.1-next.20261123.1",
-    "date": "2026-11-23"
-  }
+  "next": null
 }
